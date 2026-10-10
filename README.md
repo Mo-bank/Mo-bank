@@ -1,7 +1,7 @@
 ```
 @Mo-bank
 --------------------------------------------
- OS: .............. macOS, Windows 11
+ OS: .............. macOS, Windows 11, IOS
  Host: ............ Casablanca / Paris
  Role: ............ Finance / Fintech / AI
  Editor: .......... VS Code
@@ -11,9 +11,9 @@
  Languages.Spoken:  French, Arabic, English
 
  Focus: ........... Investing, Trading, Geopolitics, Fintech, AI
- Finance: ......... Financial markets, Corporate finance
- Motorsport: ...... Formula 1, Sim racing
- Collecting: ...... Knowledge, Memories, Side Quests, Watches (horology), Sports cars(soon),
+ Finance: ......... Financial markets, VC and Fund-Raising
+ Motorsport: ...... Formula 1, Sim racing, 
+ Collecting: ...... Knowledge, Memories, Side Quests, Watches, Sports cars(soon),
  Niche: ........... Arabic calligraphy, Macro history, Boxe, Tennis
 
 Contact
@@ -27,5 +27,4 @@ GitHub Stats
 --------------------------------------------
  Repos: .......... 3      Followers: ..... 0
  Stars: .......... 0      Following: ..... 0
- Commits: ........ 326
 ```
